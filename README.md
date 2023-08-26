@@ -1,2 +1,4 @@
 # Blog
-Where you can find all the media files for my personal blog
+
+This is a repository created to store all the posts I publish in different social media including
+resources to allow having a control url that point to the resource.

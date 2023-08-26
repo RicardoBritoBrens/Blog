@@ -10,7 +10,7 @@ Let's begin...
 
 ## Step 0 - Download Homebrew
 
-* Open the your default terminal, for this I will use the one that come by default which is [zsh](https://ohmyz.sh/) since the release of macOS Catalina on october 7 2019.
+- Open the your default terminal, for this I will use the one that come by default which is [zsh](https://ohmyz.sh/) since the release of macOS Catalina on october 7 2019.
 
 You can find it into the application folder as `Terminal.app`
 
@@ -18,9 +18,9 @@ You can find it into the application folder as `Terminal.app`
 
 This is the default icon of the app.
 
-* Copy and paste the following text, hit enter and wait for de download to complete.
+- Copy and paste the following text, hit enter and wait for the download to complete.
 
-``` bash
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
 ```
 
@@ -28,13 +28,13 @@ This is the default icon of the app.
 
 After that run the following to validate you the result
 
-``` bat
+```bat
  brew -v
 ```
 
 or
 
-``` bat
+```bat
  brew --version
 ```
 
@@ -44,13 +44,13 @@ Then you should see something like this on the terminal
 
 ## Step 2 - Downloading packages
 
-To download new packages you can use the following structure command 
+To download new packages you can use the following structure command
 
 brew install + `package name`
 
 Example:
 
-``` bat
+```bat
  brew install discord
 ```
 
@@ -66,7 +66,7 @@ That's it you are done!!!
 
 In case you need to remove package you use the following brew command
 
-``` bat
+```bat
  brew remove discord
 ```
 
